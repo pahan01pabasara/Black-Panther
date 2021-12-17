@@ -20,9 +20,6 @@
 ***
 <div aline='left'><h2>BLACK PANTHER TEAM </h2></div>
 
-***
-
-
 <table><tr><th>Ms:PAHAN</th><th>PAHAN PABASARA </th></tr><tr><td><a href="https://github.com/pahan01pabasara/Black-Panther"><img src="https://i.ibb.co/3z76kRG/03d3250f68e2.jpg" width="180" alt="BLACK PANTHER"></a></td><td><a href="https://github.com/ravindu01manoj"><img src="https://i.ibb.co/GMDtzJK/9c7cd57913d3.jpg" width="180" alt="PAHAN PABASAA"></a></td></tr
 
 
